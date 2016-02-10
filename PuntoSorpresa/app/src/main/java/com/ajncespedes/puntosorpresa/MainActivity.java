@@ -1,5 +1,24 @@
 package com.ajncespedes.puntosorpresa;
 
+/**
+ *Copyright (C) 2016  Antonio José Navarro Céspedes y Miguel Ángel Valenzuela Hidalgo
+ *This program is free software: you can redistribute it and/or modify
+ *it under the terms of the GNU General Public License as published by
+ *the Free Software Foundation, either version 3 of the License, or
+ *(at your option) any later version.
+ *This program is distributed in the hope that it will be useful,
+ *but WITHOUT ANY WARRANTY; without even the implied warranty of
+ *MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ *GNU General Public License for more details.
+ *You should have received a copy of the GNU General Public License
+ *along with this program.  If not, see <http://www.gnu.org/licenses/>
+ *
+ * @author Antonio José Navarro Céspedes
+ * @author Miguel Ángel Valenzuela Hidalgo
+ * @version 10.02.2016
+ * Detecta cuando nos acercamos al dispositivo, es una ayuda para cuando realizamos flexiones de brazos ya que cuenta automáticamente
+ * las flexiones realizadas
+ */
 import android.content.Context;
 import android.hardware.Sensor;
 import android.hardware.SensorEvent;
