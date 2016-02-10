@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PuntoMovimientoSonido</string>
+    <string name="action_settings">Settings</string>
+    <string name="latigo">¡Latigazo!</string>
+    <string name="agitar">Estás agitando el móvil</string>
+    <string name="movimiento">Realiza un movimiento</string>
+    <string name="ayuda">Puedes dar un latigazo haciendo el gesto de látigo y puedes agitar el móvil para reproducir los sonidos correspondientes.</string>
+</resources>

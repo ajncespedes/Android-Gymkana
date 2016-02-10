@@ -1,0 +1,26 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <Button
+        android:id="@+id/buttonQR"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/botonQR"
+        android:layout_margin="10dp"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:background="@drawable/button_background"
+        android:textColor="#ffffff"
+        />
+
+    <fragment
+        android:id="@+id/mapview"
+        android:layout_below="@+id/buttonQR"
+        android:name="com.google.android.gms.maps.MapFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="10dp"/>
+
+</RelativeLayout>

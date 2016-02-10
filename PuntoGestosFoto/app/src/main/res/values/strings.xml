@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PuntoGestosFoto</string>
+    <string name="action_settings">Settings</string>
+    <string name="patron">Dibuja un patrón</string>
+    <string name="patron_incorrecto">Patrón incorrecto</string>
+    <string name="patron_desbloqueado">Patrón desbloquedao</string>
+</resources>
